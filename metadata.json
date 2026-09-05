@@ -1,0 +1,7 @@
+{
+  "name": "Fair-Trade Quality Scanner",
+  "description": "AI-powered computer vision tool for small-scale farmers to grade produce and generate quality certificates.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
